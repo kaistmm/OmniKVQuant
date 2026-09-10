@@ -1,0 +1,22 @@
+OmniKVQuant: KV Cache Quantization for Omni-LLMs
+Copyright 2026 the OmniKVQuant authors.
+
+The model adapter uses Qwen2.5-Omni from Hugging Face Transformers
+(the Qwen team, Alibaba Group, and Hugging Face contributors; Apache-2.0).
+Pretrained model weights retain their upstream license.
+
+model/codec/turboquant.py contains mathematical primitives adapted from
+vLLM, commit b44311b6ef9232d1f345f4b55adef7abc223f0e7, licensed under
+Apache-2.0. Its original copyright and SPDX notices are retained.
+The local cache, temporal range adaptation, modality rotation integration,
+and Triton kernels are derived from the authors' research implementation.
+
+WorldSense annotations originate from the WorldSense benchmark:
+https://github.com/JaaackHongggg/WorldSense
+Dataset annotations and media remain subject to their original terms.
+The software license does not relicense third-party datasets or model weights.
+
+VGGSound training annotations used in calibration/vggsound_309.json originate
+from VGGSound (https://www.robots.ox.ac.uk/~vgg/data/vggsound/). This release
+contains annotation references and labels, not video/audio media. Dataset
+annotations and media retain their original terms.

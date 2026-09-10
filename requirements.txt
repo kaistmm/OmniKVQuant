@@ -1,0 +1,16 @@
+# Install PyTorch first; see README.md.
+transformers==4.52.3
+accelerate==1.11.0
+qwen-omni-utils==0.0.8
+qwen-vl-utils==0.0.8
+numpy==1.24.4
+scipy==1.15.3
+triton==3.2.0
+decord==0.6.0
+av==16.0.1
+librosa==0.11.0
+soundfile==0.13.1
+Pillow==11.3.0
+huggingface-hub==0.36.0
+safetensors==0.6.2
+tqdm==4.67.1

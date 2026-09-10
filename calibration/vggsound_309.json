@@ -1,0 +1,2165 @@
+[
+  {
+    "id": "EYCreC_kg5o_000030",
+    "video": "EYCreC_kg5o_000030.mp4",
+    "split": "train",
+    "class_label": "playing tabla",
+    "caption": "playing tabla"
+  },
+  {
+    "id": "vfVD4eZ5Nvs_000009",
+    "video": "vfVD4eZ5Nvs_000009.mp4",
+    "split": "train",
+    "class_label": "playing bongo",
+    "caption": "playing bongo"
+  },
+  {
+    "id": "2GOPuGmcHH0_000020",
+    "video": "2GOPuGmcHH0_000020.mp4",
+    "split": "train",
+    "class_label": "lawn mowing",
+    "caption": "lawn mowing"
+  },
+  {
+    "id": "cONmLYsDHl0_000018",
+    "video": "cONmLYsDHl0_000018.mp4",
+    "split": "train",
+    "class_label": "people marching",
+    "caption": "people marching"
+  },
+  {
+    "id": "RB3Lv2xNMY4_000000",
+    "video": "RB3Lv2xNMY4_000000.mp4",
+    "split": "train",
+    "class_label": "golf driving",
+    "caption": "golf driving"
+  },
+  {
+    "id": "YgB5LH01wk4_000028",
+    "video": "YgB5LH01wk4_000028.mp4",
+    "split": "train",
+    "class_label": "barn swallow calling",
+    "caption": "barn swallow calling"
+  },
+  {
+    "id": "wfRWvI16wxw_000086",
+    "video": "wfRWvI16wxw_000086.mp4",
+    "split": "train",
+    "class_label": "lions growling",
+    "caption": "lions growling"
+  },
+  {
+    "id": "dBSRk9afGgE_000035",
+    "video": "dBSRk9afGgE_000035.mp4",
+    "split": "train",
+    "class_label": "chinchilla barking",
+    "caption": "chinchilla barking"
+  },
+  {
+    "id": "kOHIIEOam_8_000000",
+    "video": "kOHIIEOam_8_000000.mp4",
+    "split": "train",
+    "class_label": "roller coaster running",
+    "caption": "roller coaster running"
+  },
+  {
+    "id": "bxts5znycds_000067",
+    "video": "bxts5znycds_000067.mp4",
+    "split": "train",
+    "class_label": "otter growling",
+    "caption": "otter growling"
+  },
+  {
+    "id": "YNwgT_8Vniw_000018",
+    "video": "YNwgT_8Vniw_000018.mp4",
+    "split": "train",
+    "class_label": "air horn",
+    "caption": "air horn"
+  },
+  {
+    "id": "YZiGDqWNLX4_000110",
+    "video": "YZiGDqWNLX4_000110.mp4",
+    "split": "train",
+    "class_label": "playing trombone",
+    "caption": "playing trombone"
+  },
+  {
+    "id": "UCtiIWMRy-M_000004",
+    "video": "UCtiIWMRy-M_000004.mp4",
+    "split": "train",
+    "class_label": "sea lion barking",
+    "caption": "sea lion barking"
+  },
+  {
+    "id": "sKnCwuTOzwE_000053",
+    "video": "sKnCwuTOzwE_000053.mp4",
+    "split": "train",
+    "class_label": "hail",
+    "caption": "hail"
+  },
+  {
+    "id": "yqKLtv30fcQ_000005",
+    "video": "yqKLtv30fcQ_000005.mp4",
+    "split": "train",
+    "class_label": "snake hissing",
+    "caption": "snake hissing"
+  },
+  {
+    "id": "jJp1gPilmxs_000009",
+    "video": "jJp1gPilmxs_000009.mp4",
+    "split": "train",
+    "class_label": "playing harmonica",
+    "caption": "playing harmonica"
+  },
+  {
+    "id": "o8uxxMXuhZ8_000030",
+    "video": "o8uxxMXuhZ8_000030.mp4",
+    "split": "train",
+    "class_label": "people sniggering",
+    "caption": "people sniggering"
+  },
+  {
+    "id": "36-Okvu2Xao_000042",
+    "video": "36-Okvu2Xao_000042.mp4",
+    "split": "train",
+    "class_label": "playing tuning fork",
+    "caption": "playing tuning fork"
+  },
+  {
+    "id": "meLyeGrTL1I_000049",
+    "video": "meLyeGrTL1I_000049.mp4",
+    "split": "train",
+    "class_label": "scuba diving",
+    "caption": "scuba diving"
+  },
+  {
+    "id": "A8gbOIvxvMA_000030",
+    "video": "A8gbOIvxvMA_000030.mp4",
+    "split": "train",
+    "class_label": "playing cello",
+    "caption": "playing cello"
+  },
+  {
+    "id": "51NV5b5e5As_000050",
+    "video": "51NV5b5e5As_000050.mp4",
+    "split": "train",
+    "class_label": "cat meowing",
+    "caption": "cat meowing"
+  },
+  {
+    "id": "8n7z8HZxeqQ_000312",
+    "video": "8n7z8HZxeqQ_000312.mp4",
+    "split": "train",
+    "class_label": "ripping paper",
+    "caption": "ripping paper"
+  },
+  {
+    "id": "iJX8yWBTJw8_000020",
+    "video": "iJX8yWBTJw8_000020.mp4",
+    "split": "train",
+    "class_label": "people humming",
+    "caption": "people humming"
+  },
+  {
+    "id": "3zcm-TZ5s1Y_000377",
+    "video": "3zcm-TZ5s1Y_000377.mp4",
+    "split": "train",
+    "class_label": "metronome",
+    "caption": "metronome"
+  },
+  {
+    "id": "2QKJuc_Hscc_000050",
+    "video": "2QKJuc_Hscc_000050.mp4",
+    "split": "train",
+    "class_label": "dog barking",
+    "caption": "dog barking"
+  },
+  {
+    "id": "pmzYu1HZbtc_000260",
+    "video": "pmzYu1HZbtc_000260.mp4",
+    "split": "train",
+    "class_label": "mosquito buzzing",
+    "caption": "mosquito buzzing"
+  },
+  {
+    "id": "gYtyV6CyBko_000030",
+    "video": "gYtyV6CyBko_000030.mp4",
+    "split": "train",
+    "class_label": "mouse squeaking",
+    "caption": "mouse squeaking"
+  },
+  {
+    "id": "Y6-EXl7Njzg_000030",
+    "video": "Y6-EXl7Njzg_000030.mp4",
+    "split": "train",
+    "class_label": "people babbling",
+    "caption": "people babbling"
+  },
+  {
+    "id": "VeKRX7eC2To_000030",
+    "video": "VeKRX7eC2To_000030.mp4",
+    "split": "train",
+    "class_label": "playing clarinet",
+    "caption": "playing clarinet"
+  },
+  {
+    "id": "J9TaPK4a3cw_000133",
+    "video": "J9TaPK4a3cw_000133.mp4",
+    "split": "train",
+    "class_label": "female singing",
+    "caption": "female singing"
+  },
+  {
+    "id": "Vbsefb2ve2g_000067",
+    "video": "Vbsefb2ve2g_000067.mp4",
+    "split": "train",
+    "class_label": "civil defense siren",
+    "caption": "civil defense siren"
+  },
+  {
+    "id": "c3AJOT4VwSE_000510",
+    "video": "c3AJOT4VwSE_000510.mp4",
+    "split": "train",
+    "class_label": "opening or closing drawers",
+    "caption": "opening or closing drawers"
+  },
+  {
+    "id": "7rxfucuwC-Q_000360",
+    "video": "7rxfucuwC-Q_000360.mp4",
+    "split": "train",
+    "class_label": "people eating noodle",
+    "caption": "people eating noodle"
+  },
+  {
+    "id": "UbPJ8MIGZNA_000000",
+    "video": "UbPJ8MIGZNA_000000.mp4",
+    "split": "train",
+    "class_label": "fireworks banging",
+    "caption": "fireworks banging"
+  },
+  {
+    "id": "BhI1wTFc6KU_000000",
+    "video": "BhI1wTFc6KU_000000.mp4",
+    "split": "train",
+    "class_label": "door slamming",
+    "caption": "door slamming"
+  },
+  {
+    "id": "jBv48uOrgbs_000320",
+    "video": "jBv48uOrgbs_000320.mp4",
+    "split": "train",
+    "class_label": "rowboat, canoe, kayak rowing",
+    "caption": "rowboat, canoe, kayak rowing"
+  },
+  {
+    "id": "F3zZtNNNEus_000100",
+    "video": "F3zZtNNNEus_000100.mp4",
+    "split": "train",
+    "class_label": "playing volleyball",
+    "caption": "playing volleyball"
+  },
+  {
+    "id": "vfkjyOzEKyQ_000066",
+    "video": "vfkjyOzEKyQ_000066.mp4",
+    "split": "train",
+    "class_label": "woodpecker pecking tree",
+    "caption": "woodpecker pecking tree"
+  },
+  {
+    "id": "7Gua0-UrKIw_000030",
+    "video": "7Gua0-UrKIw_000030.mp4",
+    "split": "train",
+    "class_label": "reversing beeps",
+    "caption": "reversing beeps"
+  },
+  {
+    "id": "OCaW_fZF1e8_000251",
+    "video": "OCaW_fZF1e8_000251.mp4",
+    "split": "train",
+    "class_label": "chimpanzee pant-hooting",
+    "caption": "chimpanzee pant-hooting"
+  },
+  {
+    "id": "jxaMR0I4YSY_000016",
+    "video": "jxaMR0I4YSY_000016.mp4",
+    "split": "train",
+    "class_label": "skidding",
+    "caption": "skidding"
+  },
+  {
+    "id": "1p3NSKpuJDs_000144",
+    "video": "1p3NSKpuJDs_000144.mp4",
+    "split": "train",
+    "class_label": "child singing",
+    "caption": "child singing"
+  },
+  {
+    "id": "zSMmaftkVX8_000380",
+    "video": "zSMmaftkVX8_000380.mp4",
+    "split": "train",
+    "class_label": "baby babbling",
+    "caption": "baby babbling"
+  },
+  {
+    "id": "RQHsbSHEnYc_000009",
+    "video": "RQHsbSHEnYc_000009.mp4",
+    "split": "train",
+    "class_label": "running electric fan",
+    "caption": "running electric fan"
+  },
+  {
+    "id": "27rw1ni1k0c_000001",
+    "video": "27rw1ni1k0c_000001.mp4",
+    "split": "train",
+    "class_label": "people running",
+    "caption": "people running"
+  },
+  {
+    "id": "ThLQka_yZNY_000261",
+    "video": "ThLQka_yZNY_000261.mp4",
+    "split": "train",
+    "class_label": "beat boxing",
+    "caption": "beat boxing"
+  },
+  {
+    "id": "6gMuI6vSK6k_000492",
+    "video": "6gMuI6vSK6k_000492.mp4",
+    "split": "train",
+    "class_label": "striking bowling",
+    "caption": "striking bowling"
+  },
+  {
+    "id": "6TMtqRGsNEE_000570",
+    "video": "6TMtqRGsNEE_000570.mp4",
+    "split": "train",
+    "class_label": "eating with cutlery",
+    "caption": "eating with cutlery"
+  },
+  {
+    "id": "Ar0qgvu2BY8_000080",
+    "video": "Ar0qgvu2BY8_000080.mp4",
+    "split": "train",
+    "class_label": "people crowd",
+    "caption": "people crowd"
+  },
+  {
+    "id": "G0SUSiUozWM_000236",
+    "video": "G0SUSiUozWM_000236.mp4",
+    "split": "train",
+    "class_label": "popping popcorn",
+    "caption": "popping popcorn"
+  },
+  {
+    "id": "QK27EA8DmHQ_000385",
+    "video": "QK27EA8DmHQ_000385.mp4",
+    "split": "train",
+    "class_label": "disc scratching",
+    "caption": "disc scratching"
+  },
+  {
+    "id": "hDvi0lXcDKA_000055",
+    "video": "hDvi0lXcDKA_000055.mp4",
+    "split": "train",
+    "class_label": "magpie calling",
+    "caption": "magpie calling"
+  },
+  {
+    "id": "G8VETC-kEio_000049",
+    "video": "G8VETC-kEio_000049.mp4",
+    "split": "train",
+    "class_label": "bathroom ventilation fan running",
+    "caption": "bathroom ventilation fan running"
+  },
+  {
+    "id": "-PvlrLjIAYo_000009",
+    "video": "-PvlrLjIAYo_000009.mp4",
+    "split": "train",
+    "class_label": "parrot talking",
+    "caption": "parrot talking"
+  },
+  {
+    "id": "6ieXDFjLKNo_000230",
+    "video": "6ieXDFjLKNo_000230.mp4",
+    "split": "train",
+    "class_label": "lions roaring",
+    "caption": "lions roaring"
+  },
+  {
+    "id": "NAdLwXCxpS0_000162",
+    "video": "NAdLwXCxpS0_000162.mp4",
+    "split": "train",
+    "class_label": "planing timber",
+    "caption": "planing timber"
+  },
+  {
+    "id": "9XfmOHbHniE_000018",
+    "video": "9XfmOHbHniE_000018.mp4",
+    "split": "train",
+    "class_label": "snake rattling",
+    "caption": "snake rattling"
+  },
+  {
+    "id": "3A39m83VhUA_000294",
+    "video": "3A39m83VhUA_000294.mp4",
+    "split": "train",
+    "class_label": "hammering nails",
+    "caption": "hammering nails"
+  },
+  {
+    "id": "O-Y1CBYW0-M_000040",
+    "video": "O-Y1CBYW0-M_000040.mp4",
+    "split": "train",
+    "class_label": "playing bagpipes",
+    "caption": "playing bagpipes"
+  },
+  {
+    "id": "JK1VapgXi_c_000062",
+    "video": "JK1VapgXi_c_000062.mp4",
+    "split": "train",
+    "class_label": "plastic bottle crushing",
+    "caption": "plastic bottle crushing"
+  },
+  {
+    "id": "fPV1g05NMfE_000078",
+    "video": "fPV1g05NMfE_000078.mp4",
+    "split": "train",
+    "class_label": "tap dancing",
+    "caption": "tap dancing"
+  },
+  {
+    "id": "-FoTxwPOz3U_000000",
+    "video": "-FoTxwPOz3U_000000.mp4",
+    "split": "train",
+    "class_label": "child speech, kid speaking",
+    "caption": "child speech, kid speaking"
+  },
+  {
+    "id": "IU_j5shHQP4_000430",
+    "video": "IU_j5shHQP4_000430.mp4",
+    "split": "train",
+    "class_label": "squishing water",
+    "caption": "squishing water"
+  },
+  {
+    "id": "K0EiS8UsJPg_000030",
+    "video": "K0EiS8UsJPg_000030.mp4",
+    "split": "train",
+    "class_label": "people eating",
+    "caption": "people eating"
+  },
+  {
+    "id": "mhCzYK5JCBM_000030",
+    "video": "mhCzYK5JCBM_000030.mp4",
+    "split": "train",
+    "class_label": "duck quacking",
+    "caption": "duck quacking"
+  },
+  {
+    "id": "xcoDPmy-UAY_000684",
+    "video": "xcoDPmy-UAY_000684.mp4",
+    "split": "train",
+    "class_label": "sea waves",
+    "caption": "sea waves"
+  },
+  {
+    "id": "pb1RbeEwwmc_000057",
+    "video": "pb1RbeEwwmc_000057.mp4",
+    "split": "train",
+    "class_label": "playing congas",
+    "caption": "playing congas"
+  },
+  {
+    "id": "466XkuormNQ_000030",
+    "video": "466XkuormNQ_000030.mp4",
+    "split": "train",
+    "class_label": "playing harpsichord",
+    "caption": "playing harpsichord"
+  },
+  {
+    "id": "xgXd06kKFIQ_000000",
+    "video": "xgXd06kKFIQ_000000.mp4",
+    "split": "train",
+    "class_label": "playing vibraphone",
+    "caption": "playing vibraphone"
+  },
+  {
+    "id": "qJT2h5uGAC0_000930",
+    "video": "qJT2h5uGAC0_000930.mp4",
+    "split": "train",
+    "class_label": "male singing",
+    "caption": "male singing"
+  },
+  {
+    "id": "jgDWimc8k7k_000232",
+    "video": "jgDWimc8k7k_000232.mp4",
+    "split": "train",
+    "class_label": "playing lacrosse",
+    "caption": "playing lacrosse"
+  },
+  {
+    "id": "GS8dnIAHj2A_000013",
+    "video": "GS8dnIAHj2A_000013.mp4",
+    "split": "train",
+    "class_label": "smoke detector beeping",
+    "caption": "smoke detector beeping"
+  },
+  {
+    "id": "K-0qmhvJyzE_000010",
+    "video": "K-0qmhvJyzE_000010.mp4",
+    "split": "train",
+    "class_label": "playing marimba, xylophone",
+    "caption": "playing marimba, xylophone"
+  },
+  {
+    "id": "LwypJxIZ31w_000001",
+    "video": "LwypJxIZ31w_000001.mp4",
+    "split": "train",
+    "class_label": "opening or closing car electric windows",
+    "caption": "opening or closing car electric windows"
+  },
+  {
+    "id": "pI2gLesgVes_000009",
+    "video": "pI2gLesgVes_000009.mp4",
+    "split": "train",
+    "class_label": "alligators, crocodiles hissing",
+    "caption": "alligators, crocodiles hissing"
+  },
+  {
+    "id": "AraV2kvytIY_000024",
+    "video": "AraV2kvytIY_000024.mp4",
+    "split": "train",
+    "class_label": "airplane flyby",
+    "caption": "airplane flyby"
+  },
+  {
+    "id": "jbVBpTeK53M_000140",
+    "video": "jbVBpTeK53M_000140.mp4",
+    "split": "train",
+    "class_label": "bird squawking",
+    "caption": "bird squawking"
+  },
+  {
+    "id": "WzHoMY7YQeU_000644",
+    "video": "WzHoMY7YQeU_000644.mp4",
+    "split": "train",
+    "class_label": "canary calling",
+    "caption": "canary calling"
+  },
+  {
+    "id": "007P6bFgRCU_000010",
+    "video": "007P6bFgRCU_000010.mp4",
+    "split": "train",
+    "class_label": "playing trumpet",
+    "caption": "playing trumpet"
+  },
+  {
+    "id": "Ub7DXmyQonI_000030",
+    "video": "Ub7DXmyQonI_000030.mp4",
+    "split": "train",
+    "class_label": "playing flute",
+    "caption": "playing flute"
+  },
+  {
+    "id": "c8lfu6yJ0K4_000003",
+    "video": "c8lfu6yJ0K4_000003.mp4",
+    "split": "train",
+    "class_label": "car passing by",
+    "caption": "car passing by"
+  },
+  {
+    "id": "7c-hiuqSxu8_000050",
+    "video": "7c-hiuqSxu8_000050.mp4",
+    "split": "train",
+    "class_label": "people burping",
+    "caption": "people burping"
+  },
+  {
+    "id": "jLtZk7lKmjk_000210",
+    "video": "jLtZk7lKmjk_000210.mp4",
+    "split": "train",
+    "class_label": "chicken crowing",
+    "caption": "chicken crowing"
+  },
+  {
+    "id": "CD8n7ZPuA1U_000005",
+    "video": "CD8n7ZPuA1U_000005.mp4",
+    "split": "train",
+    "class_label": "mynah bird singing",
+    "caption": "mynah bird singing"
+  },
+  {
+    "id": "Ju7Kg_H2iZQ_000030",
+    "video": "Ju7Kg_H2iZQ_000030.mp4",
+    "split": "train",
+    "class_label": "engine accelerating, revving, vroom",
+    "caption": "engine accelerating, revving, vroom"
+  },
+  {
+    "id": "3t6pqBKV0kY_000030",
+    "video": "3t6pqBKV0kY_000030.mp4",
+    "split": "train",
+    "class_label": "motorboat, speedboat acceleration",
+    "caption": "motorboat, speedboat acceleration"
+  },
+  {
+    "id": "KydSULgAHFI_000060",
+    "video": "KydSULgAHFI_000060.mp4",
+    "split": "train",
+    "class_label": "footsteps on snow",
+    "caption": "footsteps on snow"
+  },
+  {
+    "id": "A_uldWErog4_000040",
+    "video": "A_uldWErog4_000040.mp4",
+    "split": "train",
+    "class_label": "playing washboard",
+    "caption": "playing washboard"
+  },
+  {
+    "id": "Qd9hSBBfXq4_000776",
+    "video": "Qd9hSBBfXq4_000776.mp4",
+    "split": "train",
+    "class_label": "playing oboe",
+    "caption": "playing oboe"
+  },
+  {
+    "id": "jKTOO2MWszA_000070",
+    "video": "jKTOO2MWszA_000070.mp4",
+    "split": "train",
+    "class_label": "splashing water",
+    "caption": "splashing water"
+  },
+  {
+    "id": "D30UC-C-lIs_000029",
+    "video": "D30UC-C-lIs_000029.mp4",
+    "split": "train",
+    "class_label": "blowtorch igniting",
+    "caption": "blowtorch igniting"
+  },
+  {
+    "id": "_qJTgi-q4s0_000030",
+    "video": "_qJTgi-q4s0_000030.mp4",
+    "split": "train",
+    "class_label": "printer printing",
+    "caption": "printer printing"
+  },
+  {
+    "id": "r4EiF70842U_000080",
+    "video": "r4EiF70842U_000080.mp4",
+    "split": "train",
+    "class_label": "typing on typewriter",
+    "caption": "typing on typewriter"
+  },
+  {
+    "id": "VViXFIbJNbk_000130",
+    "video": "VViXFIbJNbk_000130.mp4",
+    "split": "train",
+    "class_label": "people finger snapping",
+    "caption": "people finger snapping"
+  },
+  {
+    "id": "UztuiHbZvCw_000991",
+    "video": "UztuiHbZvCw_000991.mp4",
+    "split": "train",
+    "class_label": "lip smacking",
+    "caption": "lip smacking"
+  },
+  {
+    "id": "9NYsJxa4wjA_000040",
+    "video": "9NYsJxa4wjA_000040.mp4",
+    "split": "train",
+    "class_label": "frog croaking",
+    "caption": "frog croaking"
+  },
+  {
+    "id": "jXqFEx-S0hw_000161",
+    "video": "jXqFEx-S0hw_000161.mp4",
+    "split": "train",
+    "class_label": "playing castanets",
+    "caption": "playing castanets"
+  },
+  {
+    "id": "zTq_Z1aPFvk_000000",
+    "video": "zTq_Z1aPFvk_000000.mp4",
+    "split": "train",
+    "class_label": "skiing",
+    "caption": "skiing"
+  },
+  {
+    "id": "7MT92mDKdKU_000106",
+    "video": "7MT92mDKdKU_000106.mp4",
+    "split": "train",
+    "class_label": "yodelling",
+    "caption": "yodelling"
+  },
+  {
+    "id": "2xBIHi3oqy4_000030",
+    "video": "2xBIHi3oqy4_000030.mp4",
+    "split": "train",
+    "class_label": "female speech, woman speaking",
+    "caption": "female speech, woman speaking"
+  },
+  {
+    "id": "XnI2G45cMdY_000132",
+    "video": "XnI2G45cMdY_000132.mp4",
+    "split": "train",
+    "class_label": "electric shaver, electric razor shaving",
+    "caption": "electric shaver, electric razor shaving"
+  },
+  {
+    "id": "nNI2yUaXclM_000074",
+    "video": "nNI2yUaXclM_000074.mp4",
+    "split": "train",
+    "class_label": "eagle screaming",
+    "caption": "eagle screaming"
+  },
+  {
+    "id": "DYVwPj_voRw_000030",
+    "video": "DYVwPj_voRw_000030.mp4",
+    "split": "train",
+    "class_label": "goose honking",
+    "caption": "goose honking"
+  },
+  {
+    "id": "j-wEtmNLMgM_000062",
+    "video": "j-wEtmNLMgM_000062.mp4",
+    "split": "train",
+    "class_label": "cricket chirping",
+    "caption": "cricket chirping"
+  },
+  {
+    "id": "LxnIUtOAsCs_000030",
+    "video": "LxnIUtOAsCs_000030.mp4",
+    "split": "train",
+    "class_label": "playing harp",
+    "caption": "playing harp"
+  },
+  {
+    "id": "7PEL4NrU1Jk_000023",
+    "video": "7PEL4NrU1Jk_000023.mp4",
+    "split": "train",
+    "class_label": "cattle mooing",
+    "caption": "cattle mooing"
+  },
+  {
+    "id": "navn7jCBp_o_000120",
+    "video": "navn7jCBp_o_000120.mp4",
+    "split": "train",
+    "class_label": "playing steelpan",
+    "caption": "playing steelpan"
+  },
+  {
+    "id": "_k2hN2MlHoA_000030",
+    "video": "_k2hN2MlHoA_000030.mp4",
+    "split": "train",
+    "class_label": "people belly laughing",
+    "caption": "people belly laughing"
+  },
+  {
+    "id": "Ih0xy7tt2JY_000030",
+    "video": "Ih0xy7tt2JY_000030.mp4",
+    "split": "train",
+    "class_label": "helicopter",
+    "caption": "helicopter"
+  },
+  {
+    "id": "LjTQA8G6hoQ_000130",
+    "video": "LjTQA8G6hoQ_000130.mp4",
+    "split": "train",
+    "class_label": "using sewing machines",
+    "caption": "using sewing machines"
+  },
+  {
+    "id": "8mOksvfiImI_000130",
+    "video": "8mOksvfiImI_000130.mp4",
+    "split": "train",
+    "class_label": "telephone bell ringing",
+    "caption": "telephone bell ringing"
+  },
+  {
+    "id": "9tLzTdRhTrI_000180",
+    "video": "9tLzTdRhTrI_000180.mp4",
+    "split": "train",
+    "class_label": "playing theremin",
+    "caption": "playing theremin"
+  },
+  {
+    "id": "RD7ho_gPnnY_000201",
+    "video": "RD7ho_gPnnY_000201.mp4",
+    "split": "train",
+    "class_label": "driving snowmobile",
+    "caption": "driving snowmobile"
+  },
+  {
+    "id": "cWWzSdDG-xc_000033",
+    "video": "cWWzSdDG-xc_000033.mp4",
+    "split": "train",
+    "class_label": "sheep bleating",
+    "caption": "sheep bleating"
+  },
+  {
+    "id": "asoxqXVk68Q_000145",
+    "video": "asoxqXVk68Q_000145.mp4",
+    "split": "train",
+    "class_label": "bouncing on trampoline",
+    "caption": "bouncing on trampoline"
+  },
+  {
+    "id": "0q5kQGcOn2I_000083",
+    "video": "0q5kQGcOn2I_000083.mp4",
+    "split": "train",
+    "class_label": "francolin calling",
+    "caption": "francolin calling"
+  },
+  {
+    "id": "4_cfXx3iLes_000030",
+    "video": "4_cfXx3iLes_000030.mp4",
+    "split": "train",
+    "class_label": "fire truck siren",
+    "caption": "fire truck siren"
+  },
+  {
+    "id": "8T6O7iBGj5o_000410",
+    "video": "8T6O7iBGj5o_000410.mp4",
+    "split": "train",
+    "class_label": "singing bowl",
+    "caption": "singing bowl"
+  },
+  {
+    "id": "kVR18Eie7mM_000187",
+    "video": "kVR18Eie7mM_000187.mp4",
+    "split": "train",
+    "class_label": "playing darts",
+    "caption": "playing darts"
+  },
+  {
+    "id": "1FU5odlgLmo_000030",
+    "video": "1FU5odlgLmo_000030.mp4",
+    "split": "train",
+    "class_label": "playing mandolin",
+    "caption": "playing mandolin"
+  },
+  {
+    "id": "V6hMByaSFVY_000029",
+    "video": "V6hMByaSFVY_000029.mp4",
+    "split": "train",
+    "class_label": "bull bellowing",
+    "caption": "bull bellowing"
+  },
+  {
+    "id": "VUeoWEgUMrg_000016",
+    "video": "VUeoWEgUMrg_000016.mp4",
+    "split": "train",
+    "class_label": "bee, wasp, etc. buzzing",
+    "caption": "bee, wasp, etc. buzzing"
+  },
+  {
+    "id": "DIkH3opVS8o_000030",
+    "video": "DIkH3opVS8o_000030.mp4",
+    "split": "train",
+    "class_label": "raining",
+    "caption": "raining"
+  },
+  {
+    "id": "B7iRvj8y9aU_000030",
+    "video": "B7iRvj8y9aU_000030.mp4",
+    "split": "train",
+    "class_label": "playing steel guitar, slide guitar",
+    "caption": "playing steel guitar, slide guitar"
+  },
+  {
+    "id": "Ph2SI18iz7o_000010",
+    "video": "Ph2SI18iz7o_000010.mp4",
+    "split": "train",
+    "class_label": "people sneezing",
+    "caption": "people sneezing"
+  },
+  {
+    "id": "fEuitN-94sg_000015",
+    "video": "fEuitN-94sg_000015.mp4",
+    "split": "train",
+    "class_label": "striking pool",
+    "caption": "striking pool"
+  },
+  {
+    "id": "9q3JJ7Fhvbs_000070",
+    "video": "9q3JJ7Fhvbs_000070.mp4",
+    "split": "train",
+    "class_label": "playing electronic organ",
+    "caption": "playing electronic organ"
+  },
+  {
+    "id": "XUOOhMM9aZM_000420",
+    "video": "XUOOhMM9aZM_000420.mp4",
+    "split": "train",
+    "class_label": "playing gong",
+    "caption": "playing gong"
+  },
+  {
+    "id": "VZfrDZhI7BU_000030",
+    "video": "VZfrDZhI7BU_000030.mp4",
+    "split": "train",
+    "class_label": "skateboarding",
+    "caption": "skateboarding"
+  },
+  {
+    "id": "C_1vUaruCYI_000030",
+    "video": "C_1vUaruCYI_000030.mp4",
+    "split": "train",
+    "class_label": "ocean burbling",
+    "caption": "ocean burbling"
+  },
+  {
+    "id": "X3dPV8J8lnc_000139",
+    "video": "X3dPV8J8lnc_000139.mp4",
+    "split": "train",
+    "class_label": "electric grinder grinding",
+    "caption": "electric grinder grinding"
+  },
+  {
+    "id": "6psjy93yoTA_000030",
+    "video": "6psjy93yoTA_000030.mp4",
+    "split": "train",
+    "class_label": "cat caterwauling",
+    "caption": "cat caterwauling"
+  },
+  {
+    "id": "Gw0KmZ3kbjs_000030",
+    "video": "Gw0KmZ3kbjs_000030.mp4",
+    "split": "train",
+    "class_label": "playing synthesizer",
+    "caption": "playing synthesizer"
+  },
+  {
+    "id": "erYO0AUJDUQ_000120",
+    "video": "erYO0AUJDUQ_000120.mp4",
+    "split": "train",
+    "class_label": "vacuum cleaner cleaning floors",
+    "caption": "vacuum cleaner cleaning floors"
+  },
+  {
+    "id": "tPnrH7BlprM_000070",
+    "video": "tPnrH7BlprM_000070.mp4",
+    "split": "train",
+    "class_label": "people sobbing",
+    "caption": "people sobbing"
+  },
+  {
+    "id": "LdGcKY4CHaE_000038",
+    "video": "LdGcKY4CHaE_000038.mp4",
+    "split": "train",
+    "class_label": "playing squash",
+    "caption": "playing squash"
+  },
+  {
+    "id": "ZydWsLOtJGU_000742",
+    "video": "ZydWsLOtJGU_000742.mp4",
+    "split": "train",
+    "class_label": "playing table tennis",
+    "caption": "playing table tennis"
+  },
+  {
+    "id": "AtcIhV9GNpQ_000144",
+    "video": "AtcIhV9GNpQ_000144.mp4",
+    "split": "train",
+    "class_label": "chopping wood",
+    "caption": "chopping wood"
+  },
+  {
+    "id": "NgAEMX5d5iM_000083",
+    "video": "NgAEMX5d5iM_000083.mp4",
+    "split": "train",
+    "class_label": "train wheels squealing",
+    "caption": "train wheels squealing"
+  },
+  {
+    "id": "cQaO6vpSGhk_000009",
+    "video": "cQaO6vpSGhk_000009.mp4",
+    "split": "train",
+    "class_label": "volcano explosion",
+    "caption": "volcano explosion"
+  },
+  {
+    "id": "sNicRCa4sTI_000049",
+    "video": "sNicRCa4sTI_000049.mp4",
+    "split": "train",
+    "class_label": "race car, auto racing",
+    "caption": "race car, auto racing"
+  },
+  {
+    "id": "dIxfiXWmRJE_000260",
+    "video": "dIxfiXWmRJE_000260.mp4",
+    "split": "train",
+    "class_label": "people hiccup",
+    "caption": "people hiccup"
+  },
+  {
+    "id": "L3a132_uApg_000090",
+    "video": "L3a132_uApg_000090.mp4",
+    "split": "train",
+    "class_label": "railroad car, train wagon",
+    "caption": "railroad car, train wagon"
+  },
+  {
+    "id": "BB3CCG8SD54_000000",
+    "video": "BB3CCG8SD54_000000.mp4",
+    "split": "train",
+    "class_label": "dog growling",
+    "caption": "dog growling"
+  },
+  {
+    "id": "Ta5bgIdRUjE_000048",
+    "video": "Ta5bgIdRUjE_000048.mp4",
+    "split": "train",
+    "class_label": "chipmunk chirping",
+    "caption": "chipmunk chirping"
+  },
+  {
+    "id": "FpSHaK68ch8_000000",
+    "video": "FpSHaK68ch8_000000.mp4",
+    "split": "train",
+    "class_label": "goat bleating",
+    "caption": "goat bleating"
+  },
+  {
+    "id": "O9M7RtFP_-Y_000010",
+    "video": "O9M7RtFP_-Y_000010.mp4",
+    "split": "train",
+    "class_label": "playing glockenspiel",
+    "caption": "playing glockenspiel"
+  },
+  {
+    "id": "2r0iftxu5vc_000265",
+    "video": "2r0iftxu5vc_000265.mp4",
+    "split": "train",
+    "class_label": "police radio chatter",
+    "caption": "police radio chatter"
+  },
+  {
+    "id": "HvMZHdzvmSM_000020",
+    "video": "HvMZHdzvmSM_000020.mp4",
+    "split": "train",
+    "class_label": "people farting",
+    "caption": "people farting"
+  },
+  {
+    "id": "QnSGIwjh_ys_000100",
+    "video": "QnSGIwjh_ys_000100.mp4",
+    "split": "train",
+    "class_label": "spraying water",
+    "caption": "spraying water"
+  },
+  {
+    "id": "YNfqO5oHGaA_000030",
+    "video": "YNfqO5oHGaA_000030.mp4",
+    "split": "train",
+    "class_label": "firing cannon",
+    "caption": "firing cannon"
+  },
+  {
+    "id": "rRVTA8SlJvM_000233",
+    "video": "rRVTA8SlJvM_000233.mp4",
+    "split": "train",
+    "class_label": "lathe spinning",
+    "caption": "lathe spinning"
+  },
+  {
+    "id": "r3LmyYHbT4o_000005",
+    "video": "r3LmyYHbT4o_000005.mp4",
+    "split": "train",
+    "class_label": "playing bugle",
+    "caption": "playing bugle"
+  },
+  {
+    "id": "9-rrXPvMbro_000076",
+    "video": "9-rrXPvMbro_000076.mp4",
+    "split": "train",
+    "class_label": "playing bassoon",
+    "caption": "playing bassoon"
+  },
+  {
+    "id": "g_DBLppDZAs_000030",
+    "video": "g_DBLppDZAs_000030.mp4",
+    "split": "train",
+    "class_label": "police car (siren)",
+    "caption": "police car (siren)"
+  },
+  {
+    "id": "z9Y5GltImjc_000344",
+    "video": "z9Y5GltImjc_000344.mp4",
+    "split": "train",
+    "class_label": "people eating apple",
+    "caption": "people eating apple"
+  },
+  {
+    "id": "1z19uJK6SB0_000076",
+    "video": "1z19uJK6SB0_000076.mp4",
+    "split": "train",
+    "class_label": "playing djembe",
+    "caption": "playing djembe"
+  },
+  {
+    "id": "Nluf6HIYXXQ_000030",
+    "video": "Nluf6HIYXXQ_000030.mp4",
+    "split": "train",
+    "class_label": "dog howling",
+    "caption": "dog howling"
+  },
+  {
+    "id": "y9DFJEsiTLk_000110",
+    "video": "y9DFJEsiTLk_000110.mp4",
+    "split": "train",
+    "class_label": "car engine starting",
+    "caption": "car engine starting"
+  },
+  {
+    "id": "ror99LVvtFo_000192",
+    "video": "ror99LVvtFo_000192.mp4",
+    "split": "train",
+    "class_label": "arc welding",
+    "caption": "arc welding"
+  },
+  {
+    "id": "Euu6zlJQSD0_000030",
+    "video": "Euu6zlJQSD0_000030.mp4",
+    "split": "train",
+    "class_label": "rapping",
+    "caption": "rapping"
+  },
+  {
+    "id": "ulQVPou-bTw_000003",
+    "video": "ulQVPou-bTw_000003.mp4",
+    "split": "train",
+    "class_label": "penguins braying",
+    "caption": "penguins braying"
+  },
+  {
+    "id": "2VptepDtAZ4_000071",
+    "video": "2VptepDtAZ4_000071.mp4",
+    "split": "train",
+    "class_label": "pheasant crowing",
+    "caption": "pheasant crowing"
+  },
+  {
+    "id": "I9DXY3uVflY_000152",
+    "video": "I9DXY3uVflY_000152.mp4",
+    "split": "train",
+    "class_label": "opening or closing car doors",
+    "caption": "opening or closing car doors"
+  },
+  {
+    "id": "fdadZ_KrZVw_000090",
+    "video": "fdadZ_KrZVw_000090.mp4",
+    "split": "train",
+    "class_label": "playing timpani",
+    "caption": "playing timpani"
+  },
+  {
+    "id": "Sg-8q7jJq7A_000030",
+    "video": "Sg-8q7jJq7A_000030.mp4",
+    "split": "train",
+    "class_label": "people whispering",
+    "caption": "people whispering"
+  },
+  {
+    "id": "g7bhQwjUSq0_000080",
+    "video": "g7bhQwjUSq0_000080.mp4",
+    "split": "train",
+    "class_label": "bird chirping, tweeting",
+    "caption": "bird chirping, tweeting"
+  },
+  {
+    "id": "b6867WvTgOk_000080",
+    "video": "b6867WvTgOk_000080.mp4",
+    "split": "train",
+    "class_label": "driving motorcycle",
+    "caption": "driving motorcycle"
+  },
+  {
+    "id": "33xJ9m4Rks8_000001",
+    "video": "33xJ9m4Rks8_000001.mp4",
+    "split": "train",
+    "class_label": "ferret dooking",
+    "caption": "ferret dooking"
+  },
+  {
+    "id": "6uMAVCznTbA_000480",
+    "video": "6uMAVCznTbA_000480.mp4",
+    "split": "train",
+    "class_label": "hair dryer drying",
+    "caption": "hair dryer drying"
+  },
+  {
+    "id": "nUdUlJtyPcg_000233",
+    "video": "nUdUlJtyPcg_000233.mp4",
+    "split": "train",
+    "class_label": "chopping food",
+    "caption": "chopping food"
+  },
+  {
+    "id": "VpU4twmXFiI_000010",
+    "video": "VpU4twmXFiI_000010.mp4",
+    "split": "train",
+    "class_label": "people whistling",
+    "caption": "people whistling"
+  },
+  {
+    "id": "5F-8ODtcVuA_000214",
+    "video": "5F-8ODtcVuA_000214.mp4",
+    "split": "train",
+    "class_label": "playing double bass",
+    "caption": "playing double bass"
+  },
+  {
+    "id": "M14YsutGzIk_000005",
+    "video": "M14YsutGzIk_000005.mp4",
+    "split": "train",
+    "class_label": "cuckoo bird calling",
+    "caption": "cuckoo bird calling"
+  },
+  {
+    "id": "Ev7EbZbgr80_000013",
+    "video": "Ev7EbZbgr80_000013.mp4",
+    "split": "train",
+    "class_label": "cupboard opening or closing",
+    "caption": "cupboard opening or closing"
+  },
+  {
+    "id": "MTkvHwqj9v4_000161",
+    "video": "MTkvHwqj9v4_000161.mp4",
+    "split": "train",
+    "class_label": "wind noise",
+    "caption": "wind noise"
+  },
+  {
+    "id": "CewaO3Aug84_000080",
+    "video": "CewaO3Aug84_000080.mp4",
+    "split": "train",
+    "class_label": "firing muskets",
+    "caption": "firing muskets"
+  },
+  {
+    "id": "aAnCOKxPgaA_000140",
+    "video": "aAnCOKxPgaA_000140.mp4",
+    "split": "train",
+    "class_label": "machine gun shooting",
+    "caption": "machine gun shooting"
+  },
+  {
+    "id": "f1t07gkcfR8_000110",
+    "video": "f1t07gkcfR8_000110.mp4",
+    "split": "train",
+    "class_label": "toilet flushing",
+    "caption": "toilet flushing"
+  },
+  {
+    "id": "NCSXKxmlusY_000000",
+    "video": "NCSXKxmlusY_000000.mp4",
+    "split": "train",
+    "class_label": "crow cawing",
+    "caption": "crow cawing"
+  },
+  {
+    "id": "JLKsLx_SGOU_000030",
+    "video": "JLKsLx_SGOU_000030.mp4",
+    "split": "train",
+    "class_label": "male speech, man speaking",
+    "caption": "male speech, man speaking"
+  },
+  {
+    "id": "OhmcZInYYwE_000173",
+    "video": "OhmcZInYYwE_000173.mp4",
+    "split": "train",
+    "class_label": "playing tambourine",
+    "caption": "playing tambourine"
+  },
+  {
+    "id": "ZAgmaBqrdEM_000017",
+    "video": "ZAgmaBqrdEM_000017.mp4",
+    "split": "train",
+    "class_label": "gibbon howling",
+    "caption": "gibbon howling"
+  },
+  {
+    "id": "MxlG--30VvM_000008",
+    "video": "MxlG--30VvM_000008.mp4",
+    "split": "train",
+    "class_label": "car engine idling",
+    "caption": "car engine idling"
+  },
+  {
+    "id": "SQaFz1SxUyo_000042",
+    "video": "SQaFz1SxUyo_000042.mp4",
+    "split": "train",
+    "class_label": "playing bass drum",
+    "caption": "playing bass drum"
+  },
+  {
+    "id": "IHSblFkJ6-Y_000029",
+    "video": "IHSblFkJ6-Y_000029.mp4",
+    "split": "train",
+    "class_label": "cheetah chirrup",
+    "caption": "cheetah chirrup"
+  },
+  {
+    "id": "2E31rvMg-rE_000542",
+    "video": "2E31rvMg-rE_000542.mp4",
+    "split": "train",
+    "class_label": "sloshing water",
+    "caption": "sloshing water"
+  },
+  {
+    "id": "P7EZVAVSCtc_000175",
+    "video": "P7EZVAVSCtc_000175.mp4",
+    "split": "train",
+    "class_label": "playing hockey",
+    "caption": "playing hockey"
+  },
+  {
+    "id": "XQXsAZJqDig_000030",
+    "video": "XQXsAZJqDig_000030.mp4",
+    "split": "train",
+    "class_label": "pigeon, dove cooing",
+    "caption": "pigeon, dove cooing"
+  },
+  {
+    "id": "QlUKaEhgcV0_000539",
+    "video": "QlUKaEhgcV0_000539.mp4",
+    "split": "train",
+    "class_label": "playing drum kit",
+    "caption": "playing drum kit"
+  },
+  {
+    "id": "4hl-3oay7c0_000007",
+    "video": "4hl-3oay7c0_000007.mp4",
+    "split": "train",
+    "class_label": "pumping water",
+    "caption": "pumping water"
+  },
+  {
+    "id": "_cES7Twcq18_000006",
+    "video": "_cES7Twcq18_000006.mp4",
+    "split": "train",
+    "class_label": "playing cornet",
+    "caption": "playing cornet"
+  },
+  {
+    "id": "SNhfvhWPXNc_000030",
+    "video": "SNhfvhWPXNc_000030.mp4",
+    "split": "train",
+    "class_label": "playing electric guitar",
+    "caption": "playing electric guitar"
+  },
+  {
+    "id": "1LA8BxMlXSY_000080",
+    "video": "1LA8BxMlXSY_000080.mp4",
+    "split": "train",
+    "class_label": "ambulance siren",
+    "caption": "ambulance siren"
+  },
+  {
+    "id": "0W_wPc-zV3I_000101",
+    "video": "0W_wPc-zV3I_000101.mp4",
+    "split": "train",
+    "class_label": "hedge trimmer running",
+    "caption": "hedge trimmer running"
+  },
+  {
+    "id": "PPMAUKxAcXM_000086",
+    "video": "PPMAUKxAcXM_000086.mp4",
+    "split": "train",
+    "class_label": "children shouting",
+    "caption": "children shouting"
+  },
+  {
+    "id": "1uLkSMHxvZY_000440",
+    "video": "1uLkSMHxvZY_000440.mp4",
+    "split": "train",
+    "class_label": "playing zither",
+    "caption": "playing zither"
+  },
+  {
+    "id": "AAHybONa3n4_000150",
+    "video": "AAHybONa3n4_000150.mp4",
+    "split": "train",
+    "class_label": "dinosaurs bellowing",
+    "caption": "dinosaurs bellowing"
+  },
+  {
+    "id": "TQsjIE2VHqw_000110",
+    "video": "TQsjIE2VHqw_000110.mp4",
+    "split": "train",
+    "class_label": "chainsawing trees",
+    "caption": "chainsawing trees"
+  },
+  {
+    "id": "R4jlQEweREY_000030",
+    "video": "R4jlQEweREY_000030.mp4",
+    "split": "train",
+    "class_label": "playing didgeridoo",
+    "caption": "playing didgeridoo"
+  },
+  {
+    "id": "ZH2ncVKeG6I_000004",
+    "video": "ZH2ncVKeG6I_000004.mp4",
+    "split": "train",
+    "class_label": "people nose blowing",
+    "caption": "people nose blowing"
+  },
+  {
+    "id": "LA91bTw_08Q_000203",
+    "video": "LA91bTw_08Q_000203.mp4",
+    "split": "train",
+    "class_label": "sharpen knife",
+    "caption": "sharpen knife"
+  },
+  {
+    "id": "2UXH7NW9ae8_000030",
+    "video": "2UXH7NW9ae8_000030.mp4",
+    "split": "train",
+    "class_label": "sailing",
+    "caption": "sailing"
+  },
+  {
+    "id": "3uuyQ4O0L68_000030",
+    "video": "3uuyQ4O0L68_000030.mp4",
+    "split": "train",
+    "class_label": "playing french horn",
+    "caption": "playing french horn"
+  },
+  {
+    "id": "YvZNEcqWf0w_000064",
+    "video": "YvZNEcqWf0w_000064.mp4",
+    "split": "train",
+    "class_label": "fly, housefly buzzing",
+    "caption": "fly, housefly buzzing"
+  },
+  {
+    "id": "U9o30JY6aYc_000030",
+    "video": "U9o30JY6aYc_000030.mp4",
+    "split": "train",
+    "class_label": "cap gun shooting",
+    "caption": "cap gun shooting"
+  },
+  {
+    "id": "6j7GHWM3EJQ_000030",
+    "video": "6j7GHWM3EJQ_000030.mp4",
+    "split": "train",
+    "class_label": "pig oinking",
+    "caption": "pig oinking"
+  },
+  {
+    "id": "KBOdG9xNLaA_000006",
+    "video": "KBOdG9xNLaA_000006.mp4",
+    "split": "train",
+    "class_label": "dog baying",
+    "caption": "dog baying"
+  },
+  {
+    "id": "W75ol-nF6vo_000040",
+    "video": "W75ol-nF6vo_000040.mp4",
+    "split": "train",
+    "class_label": "playing accordion",
+    "caption": "playing accordion"
+  },
+  {
+    "id": "fAns8GJzYeQ_000030",
+    "video": "fAns8GJzYeQ_000030.mp4",
+    "split": "train",
+    "class_label": "waterfall burbling",
+    "caption": "waterfall burbling"
+  },
+  {
+    "id": "3wWw2WDsHY8_000080",
+    "video": "3wWw2WDsHY8_000080.mp4",
+    "split": "train",
+    "class_label": "foghorn",
+    "caption": "foghorn"
+  },
+  {
+    "id": "Orge4_UlvNI_000280",
+    "video": "Orge4_UlvNI_000280.mp4",
+    "split": "train",
+    "class_label": "playing sitar",
+    "caption": "playing sitar"
+  },
+  {
+    "id": "I2S72eajLzw_000030",
+    "video": "I2S72eajLzw_000030.mp4",
+    "split": "train",
+    "class_label": "playing hammond organ",
+    "caption": "playing hammond organ"
+  },
+  {
+    "id": "9W4cZpE6tH8_000037",
+    "video": "9W4cZpE6tH8_000037.mp4",
+    "split": "train",
+    "class_label": "forging swords",
+    "caption": "forging swords"
+  },
+  {
+    "id": "PlF1Z9YWZck_000075",
+    "video": "PlF1Z9YWZck_000075.mp4",
+    "split": "train",
+    "class_label": "elephant trumpeting",
+    "caption": "elephant trumpeting"
+  },
+  {
+    "id": "sSJAzADv_pw_000030",
+    "video": "sSJAzADv_pw_000030.mp4",
+    "split": "train",
+    "class_label": "baby laughter",
+    "caption": "baby laughter"
+  },
+  {
+    "id": "GlnhrMSrP5c_000014",
+    "video": "GlnhrMSrP5c_000014.mp4",
+    "split": "train",
+    "class_label": "cat growling",
+    "caption": "cat growling"
+  },
+  {
+    "id": "VpCCJy5atYU_000144",
+    "video": "VpCCJy5atYU_000144.mp4",
+    "split": "train",
+    "class_label": "ice cream truck, ice cream van",
+    "caption": "ice cream truck, ice cream van"
+  },
+  {
+    "id": "E9ulxBBGUVc_000350",
+    "video": "E9ulxBBGUVc_000350.mp4",
+    "split": "train",
+    "class_label": "thunder",
+    "caption": "thunder"
+  },
+  {
+    "id": "4rEd0ZR3EJM_000126",
+    "video": "4rEd0ZR3EJM_000126.mp4",
+    "split": "train",
+    "class_label": "tornado roaring",
+    "caption": "tornado roaring"
+  },
+  {
+    "id": "0wdNFZhpdQw_000368",
+    "video": "0wdNFZhpdQw_000368.mp4",
+    "split": "train",
+    "class_label": "people eating crisps",
+    "caption": "people eating crisps"
+  },
+  {
+    "id": "gTylPieYBcI_000125",
+    "video": "gTylPieYBcI_000125.mp4",
+    "split": "train",
+    "class_label": "fox barking",
+    "caption": "fox barking"
+  },
+  {
+    "id": "Ps_FhOvSmTM_000180",
+    "video": "Ps_FhOvSmTM_000180.mp4",
+    "split": "train",
+    "class_label": "playing saxophone",
+    "caption": "playing saxophone"
+  },
+  {
+    "id": "8hE1DIB6wfw_000030",
+    "video": "8hE1DIB6wfw_000030.mp4",
+    "split": "train",
+    "class_label": "baby crying",
+    "caption": "baby crying"
+  },
+  {
+    "id": "AVodlWZShRc_000030",
+    "video": "AVodlWZShRc_000030.mp4",
+    "split": "train",
+    "class_label": "singing choir",
+    "caption": "singing choir"
+  },
+  {
+    "id": "uC505J2Zf3o_000044",
+    "video": "uC505J2Zf3o_000044.mp4",
+    "split": "train",
+    "class_label": "cell phone buzzing",
+    "caption": "cell phone buzzing"
+  },
+  {
+    "id": "1xZESfMpi9Q_000156",
+    "video": "1xZESfMpi9Q_000156.mp4",
+    "split": "train",
+    "class_label": "playing badminton",
+    "caption": "playing badminton"
+  },
+  {
+    "id": "baayJxbQepY_000188",
+    "video": "baayJxbQepY_000188.mp4",
+    "split": "train",
+    "class_label": "playing timbales",
+    "caption": "playing timbales"
+  },
+  {
+    "id": "MCkQ9sVaOhw_000010",
+    "video": "MCkQ9sVaOhw_000010.mp4",
+    "split": "train",
+    "class_label": "bird wings flapping",
+    "caption": "bird wings flapping"
+  },
+  {
+    "id": "4NZkW-XaIa4_000030",
+    "video": "4NZkW-XaIa4_000030.mp4",
+    "split": "train",
+    "class_label": "car engine knocking",
+    "caption": "car engine knocking"
+  },
+  {
+    "id": "F-c6oa091zo_000150",
+    "video": "F-c6oa091zo_000150.mp4",
+    "split": "train",
+    "class_label": "airplane",
+    "caption": "airplane"
+  },
+  {
+    "id": "HDvPMEU33HM_000089",
+    "video": "HDvPMEU33HM_000089.mp4",
+    "split": "train",
+    "class_label": "people cheering",
+    "caption": "people cheering"
+  },
+  {
+    "id": "zD9Kgrva0RU_000013",
+    "video": "zD9Kgrva0RU_000013.mp4",
+    "split": "train",
+    "class_label": "tapping guitar",
+    "caption": "tapping guitar"
+  },
+  {
+    "id": "AlZv9bRtnws_000030",
+    "video": "AlZv9bRtnws_000030.mp4",
+    "split": "train",
+    "class_label": "playing bass guitar",
+    "caption": "playing bass guitar"
+  },
+  {
+    "id": "FayXchyGICg_000027",
+    "video": "FayXchyGICg_000027.mp4",
+    "split": "train",
+    "class_label": "people booing",
+    "caption": "people booing"
+  },
+  {
+    "id": "mT3IKxlLgEc_000190",
+    "video": "mT3IKxlLgEc_000190.mp4",
+    "split": "train",
+    "class_label": "lighting firecrackers",
+    "caption": "lighting firecrackers"
+  },
+  {
+    "id": "ObX2V23qOMc_000330",
+    "video": "ObX2V23qOMc_000330.mp4",
+    "split": "train",
+    "class_label": "stream burbling",
+    "caption": "stream burbling"
+  },
+  {
+    "id": "9gCeNCnWZhE_000030",
+    "video": "9gCeNCnWZhE_000030.mp4",
+    "split": "train",
+    "class_label": "wind rustling leaves",
+    "caption": "wind rustling leaves"
+  },
+  {
+    "id": "PX2xcfpGynA_000009",
+    "video": "PX2xcfpGynA_000009.mp4",
+    "split": "train",
+    "class_label": "subway, metro, underground",
+    "caption": "subway, metro, underground"
+  },
+  {
+    "id": "QPyLES56O1w_000636",
+    "video": "QPyLES56O1w_000636.mp4",
+    "split": "train",
+    "class_label": "people slurping",
+    "caption": "people slurping"
+  },
+  {
+    "id": "-NwBdmVSg1w_000000",
+    "video": "-NwBdmVSg1w_000000.mp4",
+    "split": "train",
+    "class_label": "cat hissing",
+    "caption": "cat hissing"
+  },
+  {
+    "id": "fTxaj8RU_gE_000093",
+    "video": "fTxaj8RU_gE_000093.mp4",
+    "split": "train",
+    "class_label": "playing erhu",
+    "caption": "playing erhu"
+  },
+  {
+    "id": "dmdMvf8RkSQ_000030",
+    "video": "dmdMvf8RkSQ_000030.mp4",
+    "split": "train",
+    "class_label": "fire crackling",
+    "caption": "fire crackling"
+  },
+  {
+    "id": "ul3umTtB-Xo_000014",
+    "video": "ul3umTtB-Xo_000014.mp4",
+    "split": "train",
+    "class_label": "air conditioning noise",
+    "caption": "air conditioning noise"
+  },
+  {
+    "id": "tGhxTy-CjV8_000010",
+    "video": "tGhxTy-CjV8_000010.mp4",
+    "split": "train",
+    "class_label": "baltimore oriole calling",
+    "caption": "baltimore oriole calling"
+  },
+  {
+    "id": "DkwFXd5nYLE_000040",
+    "video": "DkwFXd5nYLE_000040.mp4",
+    "split": "train",
+    "class_label": "driving buses",
+    "caption": "driving buses"
+  },
+  {
+    "id": "Ly2Dr03i9_w_000030",
+    "video": "Ly2Dr03i9_w_000030.mp4",
+    "split": "train",
+    "class_label": "playing piano",
+    "caption": "playing piano"
+  },
+  {
+    "id": "2b0eM8lWGCQ_000030",
+    "video": "2b0eM8lWGCQ_000030.mp4",
+    "split": "train",
+    "class_label": "horse neighing",
+    "caption": "horse neighing"
+  },
+  {
+    "id": "X07KIUzogxU_000026",
+    "video": "X07KIUzogxU_000026.mp4",
+    "split": "train",
+    "class_label": "people slapping",
+    "caption": "people slapping"
+  },
+  {
+    "id": "zC5hRueMwVY_000348",
+    "video": "zC5hRueMwVY_000348.mp4",
+    "split": "train",
+    "class_label": "bowling impact",
+    "caption": "bowling impact"
+  },
+  {
+    "id": "OD54eF2XKJA_000010",
+    "video": "OD54eF2XKJA_000010.mp4",
+    "split": "train",
+    "class_label": "basketball bounce",
+    "caption": "basketball bounce"
+  },
+  {
+    "id": "pkLw94kshuQ_000326",
+    "video": "pkLw94kshuQ_000326.mp4",
+    "split": "train",
+    "class_label": "playing snare drum",
+    "caption": "playing snare drum"
+  },
+  {
+    "id": "_R9Ma9rjEWg_000030",
+    "video": "_R9Ma9rjEWg_000030.mp4",
+    "split": "train",
+    "class_label": "playing ukulele",
+    "caption": "playing ukulele"
+  },
+  {
+    "id": "YPuFEZZxSdg_000233",
+    "video": "YPuFEZZxSdg_000233.mp4",
+    "split": "train",
+    "class_label": "playing tympani",
+    "caption": "playing tympani"
+  },
+  {
+    "id": "7-htobm4qu0_000030",
+    "video": "7-htobm4qu0_000030.mp4",
+    "split": "train",
+    "class_label": "dog bow-wow",
+    "caption": "dog bow-wow"
+  },
+  {
+    "id": "HAVPN432kNA_000071",
+    "video": "HAVPN432kNA_000071.mp4",
+    "split": "train",
+    "class_label": "rope skipping",
+    "caption": "rope skipping"
+  },
+  {
+    "id": "fLNiZuKgPtM_000030",
+    "video": "fLNiZuKgPtM_000030.mp4",
+    "split": "train",
+    "class_label": "sliding door",
+    "caption": "sliding door"
+  },
+  {
+    "id": "4rOTlxMqhfA_000009",
+    "video": "4rOTlxMqhfA_000009.mp4",
+    "split": "train",
+    "class_label": "writing on blackboard with chalk",
+    "caption": "writing on blackboard with chalk"
+  },
+  {
+    "id": "ATnl-fq5nAk_000030",
+    "video": "ATnl-fq5nAk_000030.mp4",
+    "split": "train",
+    "class_label": "playing acoustic guitar",
+    "caption": "playing acoustic guitar"
+  },
+  {
+    "id": "MUC3GjvBI7I_000030",
+    "video": "MUC3GjvBI7I_000030.mp4",
+    "split": "train",
+    "class_label": "horse clip-clop",
+    "caption": "horse clip-clop"
+  },
+  {
+    "id": "UUuXfyfCaL4_000170",
+    "video": "UUuXfyfCaL4_000170.mp4",
+    "split": "train",
+    "class_label": "people clapping",
+    "caption": "people clapping"
+  },
+  {
+    "id": "6e8U65rgekA_000046",
+    "video": "6e8U65rgekA_000046.mp4",
+    "split": "train",
+    "class_label": "people battle cry",
+    "caption": "people battle cry"
+  },
+  {
+    "id": "z98K_76cHJw_000009",
+    "video": "z98K_76cHJw_000009.mp4",
+    "split": "train",
+    "class_label": "eletric blender running",
+    "caption": "eletric blender running"
+  },
+  {
+    "id": "lZ6T7D65kys_000066",
+    "video": "lZ6T7D65kys_000066.mp4",
+    "split": "train",
+    "class_label": "coyote howling",
+    "caption": "coyote howling"
+  },
+  {
+    "id": "9W1W43n9-3g_000037",
+    "video": "9W1W43n9-3g_000037.mp4",
+    "split": "train",
+    "class_label": "cutting hair with electric trimmers",
+    "caption": "cutting hair with electric trimmers"
+  },
+  {
+    "id": "unt16ejLIvM_000276",
+    "video": "unt16ejLIvM_000276.mp4",
+    "split": "train",
+    "class_label": "swimming",
+    "caption": "swimming"
+  },
+  {
+    "id": "W7EC4nQ6Qqk_000010",
+    "video": "W7EC4nQ6Qqk_000010.mp4",
+    "split": "train",
+    "class_label": "donkey, ass braying",
+    "caption": "donkey, ass braying"
+  },
+  {
+    "id": "5X7flUpy7Ts_000002",
+    "video": "5X7flUpy7Ts_000002.mp4",
+    "split": "train",
+    "class_label": "cow lowing",
+    "caption": "cow lowing"
+  },
+  {
+    "id": "MMUQckEa_ME_000030",
+    "video": "MMUQckEa_ME_000030.mp4",
+    "split": "train",
+    "class_label": "turkey gobbling",
+    "caption": "turkey gobbling"
+  },
+  {
+    "id": "UP30sk9je00_000049",
+    "video": "UP30sk9je00_000049.mp4",
+    "split": "train",
+    "class_label": "tractor digging",
+    "caption": "tractor digging"
+  },
+  {
+    "id": "y8Gfi9gGPRc_000248",
+    "video": "y8Gfi9gGPRc_000248.mp4",
+    "split": "train",
+    "class_label": "people giggling",
+    "caption": "people giggling"
+  },
+  {
+    "id": "KBmULhoBXDY_000010",
+    "video": "KBmULhoBXDY_000010.mp4",
+    "split": "train",
+    "class_label": "playing tennis",
+    "caption": "playing tennis"
+  },
+  {
+    "id": "n4SP34zUHu8_000388",
+    "video": "n4SP34zUHu8_000388.mp4",
+    "split": "train",
+    "class_label": "elk bugling",
+    "caption": "elk bugling"
+  },
+  {
+    "id": "X8yUSV4oqoU_000030",
+    "video": "X8yUSV4oqoU_000030.mp4",
+    "split": "train",
+    "class_label": "people coughing",
+    "caption": "people coughing"
+  },
+  {
+    "id": "1wqJ9KDfcME_000060",
+    "video": "1wqJ9KDfcME_000060.mp4",
+    "split": "train",
+    "class_label": "playing cymbal",
+    "caption": "playing cymbal"
+  },
+  {
+    "id": "KeKNhZElHtg_000560",
+    "video": "KeKNhZElHtg_000560.mp4",
+    "split": "train",
+    "class_label": "mouse clicking",
+    "caption": "mouse clicking"
+  },
+  {
+    "id": "3qKgKd6B5E0_000147",
+    "video": "3qKgKd6B5E0_000147.mp4",
+    "split": "train",
+    "class_label": "cat purring",
+    "caption": "cat purring"
+  },
+  {
+    "id": "YbLR6dgY-K4_000030",
+    "video": "YbLR6dgY-K4_000030.mp4",
+    "split": "train",
+    "class_label": "playing banjo",
+    "caption": "playing banjo"
+  },
+  {
+    "id": "vx664sJFpV0_000173",
+    "video": "vx664sJFpV0_000173.mp4",
+    "split": "train",
+    "class_label": "zebra braying",
+    "caption": "zebra braying"
+  },
+  {
+    "id": "lKTKLkLPwmI_000009",
+    "video": "lKTKLkLPwmI_000009.mp4",
+    "split": "train",
+    "class_label": "underwater bubbling",
+    "caption": "underwater bubbling"
+  },
+  {
+    "id": "kMqmT6WFe2s_000282",
+    "video": "kMqmT6WFe2s_000282.mp4",
+    "split": "train",
+    "class_label": "shot football",
+    "caption": "shot football"
+  },
+  {
+    "id": "bg7FiCQH3D4_000112",
+    "video": "bg7FiCQH3D4_000112.mp4",
+    "split": "train",
+    "class_label": "ice cracking",
+    "caption": "ice cracking"
+  },
+  {
+    "id": "XRCj5j98CWY_000011",
+    "video": "XRCj5j98CWY_000011.mp4",
+    "split": "train",
+    "class_label": "strike lighter",
+    "caption": "strike lighter"
+  },
+  {
+    "id": "A0hl8W3RF5c_000000",
+    "video": "A0hl8W3RF5c_000000.mp4",
+    "split": "train",
+    "class_label": "train horning",
+    "caption": "train horning"
+  },
+  {
+    "id": "3hIqesIVX-c_000025",
+    "video": "3hIqesIVX-c_000025.mp4",
+    "split": "train",
+    "class_label": "church bell ringing",
+    "caption": "church bell ringing"
+  },
+  {
+    "id": "j17CUVoONsQ_000034",
+    "video": "j17CUVoONsQ_000034.mp4",
+    "split": "train",
+    "class_label": "whale calling",
+    "caption": "whale calling"
+  },
+  {
+    "id": "x9MU-enAr8A_000257",
+    "video": "x9MU-enAr8A_000257.mp4",
+    "split": "train",
+    "class_label": "alarm clock ringing",
+    "caption": "alarm clock ringing"
+  },
+  {
+    "id": "bHCDa337kzI_000060",
+    "video": "bHCDa337kzI_000060.mp4",
+    "split": "train",
+    "class_label": "cattle, bovinae cowbell",
+    "caption": "cattle, bovinae cowbell"
+  },
+  {
+    "id": "PWxH3l6Iri4_000000",
+    "video": "PWxH3l6Iri4_000000.mp4",
+    "split": "train",
+    "class_label": "wind chime",
+    "caption": "wind chime"
+  },
+  {
+    "id": "NsbLeONN0-c_000188",
+    "video": "NsbLeONN0-c_000188.mp4",
+    "split": "train",
+    "class_label": "playing violin, fiddle",
+    "caption": "playing violin, fiddle"
+  },
+  {
+    "id": "ZbXRhUDCOvw_000001",
+    "video": "ZbXRhUDCOvw_000001.mp4",
+    "split": "train",
+    "class_label": "people gargling",
+    "caption": "people gargling"
+  },
+  {
+    "id": "BewKANkRYN8_000030",
+    "video": "BewKANkRYN8_000030.mp4",
+    "split": "train",
+    "class_label": "dog whimpering",
+    "caption": "dog whimpering"
+  },
+  {
+    "id": "6qX8ykNoVls_000022",
+    "video": "6qX8ykNoVls_000022.mp4",
+    "split": "train",
+    "class_label": "playing guiro",
+    "caption": "playing guiro"
+  },
+  {
+    "id": "EUy-RsUXJ00_000030",
+    "video": "EUy-RsUXJ00_000030.mp4",
+    "split": "train",
+    "class_label": "owl hooting",
+    "caption": "owl hooting"
+  },
+  {
+    "id": "bjSuO7h7YTQ_000041",
+    "video": "bjSuO7h7YTQ_000041.mp4",
+    "split": "train",
+    "class_label": "missile launch",
+    "caption": "missile launch"
+  },
+  {
+    "id": "4qevqi0-WYk_000110",
+    "video": "4qevqi0-WYk_000110.mp4",
+    "split": "train",
+    "class_label": "people screaming",
+    "caption": "people screaming"
+  },
+  {
+    "id": "3J_ytWQYTug_000168",
+    "video": "3J_ytWQYTug_000168.mp4",
+    "split": "train",
+    "class_label": "heart sounds, heartbeat",
+    "caption": "heart sounds, heartbeat"
+  },
+  {
+    "id": "K6AMkKsPams_000030",
+    "video": "K6AMkKsPams_000030.mp4",
+    "split": "train",
+    "class_label": "orchestra",
+    "caption": "orchestra"
+  },
+  {
+    "id": "Njo2p0dLC6U_000030",
+    "video": "Njo2p0dLC6U_000030.mp4",
+    "split": "train",
+    "class_label": "people shuffling",
+    "caption": "people shuffling"
+  },
+  {
+    "id": "vao3k4Z115k_000235",
+    "video": "vao3k4Z115k_000235.mp4",
+    "split": "train",
+    "class_label": "slot machine",
+    "caption": "slot machine"
+  },
+  {
+    "id": "IevRzGh8uMs_000134",
+    "video": "IevRzGh8uMs_000134.mp4",
+    "split": "train",
+    "class_label": "train whistling",
+    "caption": "train whistling"
+  },
+  {
+    "id": "GI3Vdc5WHJA_000225",
+    "video": "GI3Vdc5WHJA_000225.mp4",
+    "split": "train",
+    "class_label": "warbler chirping",
+    "caption": "warbler chirping"
+  },
+  {
+    "id": "M5gLSRO5rLE_000548",
+    "video": "M5gLSRO5rLE_000548.mp4",
+    "split": "train",
+    "class_label": "playing shofar",
+    "caption": "playing shofar"
+  },
+  {
+    "id": "vS5cYNOFeBs_000012",
+    "video": "vS5cYNOFeBs_000012.mp4",
+    "split": "train",
+    "class_label": "chicken clucking",
+    "caption": "chicken clucking"
+  },
+  {
+    "id": "mdrKLSXXZNc_000302",
+    "video": "mdrKLSXXZNc_000302.mp4",
+    "split": "train",
+    "class_label": "black capped chickadee calling",
+    "caption": "black capped chickadee calling"
+  },
+  {
+    "id": "f-22ZuQyAJ4_000119",
+    "video": "f-22ZuQyAJ4_000119.mp4",
+    "split": "train",
+    "class_label": "wood thrush calling",
+    "caption": "wood thrush calling"
+  },
+  {
+    "id": "ePaVMB0SH4Q_000000",
+    "video": "ePaVMB0SH4Q_000000.mp4",
+    "split": "train",
+    "class_label": "vehicle horn, car horn, honking",
+    "caption": "vehicle horn, car horn, honking"
+  },
+  {
+    "id": "4V_-nmgCdCk_000380",
+    "video": "4V_-nmgCdCk_000380.mp4",
+    "split": "train",
+    "class_label": "mouse pattering",
+    "caption": "mouse pattering"
+  },
+  {
+    "id": "p8VjOpgDz8A_000030",
+    "video": "p8VjOpgDz8A_000030.mp4",
+    "split": "train",
+    "class_label": "typing on computer keyboard",
+    "caption": "typing on computer keyboard"
+  }
+]

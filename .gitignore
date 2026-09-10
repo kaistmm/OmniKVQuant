@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+outputs/
+datasets/
+.cache/
+.triton/
+*.log
+.DS_Store
+
+# Keep the supplied bank; local calibration runs remain untracked.
+calibration/**/*.pt
+!calibration/3b/v_rotation.pt
