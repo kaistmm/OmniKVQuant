@@ -1,5 +1,7 @@
 # OmniKVQuant: KV Cache Quantization for Omni-LLMs
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.11582-b31b1b.svg)](https://arxiv.org/abs/2609.11582)
+
 Official implementation of **OmniKVQuant**, a training-free KV-cache quantization
 method for Omni-LLMs
 
@@ -122,7 +124,12 @@ This implementation builds on [Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-O
 ## Citation
 
 ```bibtex
-TBD
+@article{yoo2026omnikvquant,
+  title={{OmniKVQuant: KV Cache Quantization for Omni-LLMs}},
+  author={Yoo, Suho and Ok, Hyunjong and Choi, Jongmin and Jung, Jihoo and Chung, Joon Son},
+  journal={arXiv preprint arXiv:2609.11582},
+  year={2026}
+}
 ```
 
 ## License
